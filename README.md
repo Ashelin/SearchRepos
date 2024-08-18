@@ -20,7 +20,7 @@ This project is a Spring Boot application that provides a REST API to fetch info
 
 ### Prerequisites
 
-- Java 17 or later
+- Java 21 or later
 - Maven 3.8+ or Gradle 7+
 
 ### Building the Project
